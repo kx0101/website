@@ -25,11 +25,11 @@ body::before {
 }
 
 a {
-  color: #df1a1a;
+  color: #fff;
 }
 
 a:hover {
-  color: #df1a1a;
+  color: #fff;
   text-decoration: none;
 }
 
